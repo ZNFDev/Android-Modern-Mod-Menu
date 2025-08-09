@@ -40,13 +40,6 @@ The LGL Team Telegram channel remains available and is currently managed by [Spr
 
 ---
 
-## 🐞 Known Issues
-
-- Spinner UI may not display on some Android 11 devices (restored in Android 12+)
-- On certain games, fallback UI may load if permissions are missing
-
----
-
 ## 🧰 Getting Started
 
 Refer to the `Docs/` directory for setup instructions, integration examples, and technical documentation.
@@ -74,6 +67,14 @@ We acknowledge and thank all contributors and source authors whose work made thi
 - And others who contributed valuable insights and code.
 
 Special thanks to the original developer of this project — though their online presence is gone, the value of their work remains.
+
+---
+
+## 🎥 Attribution for Video Creators
+
+If you create a video featuring this project, whether for tutorials, gameplay, or any other content, **please credit @ZNFDev** and include a link to the [official GitHub repository](https://github.com/ZNFDev/Android-Modern-Mod-Menu) in your video description.
+
+Failure to provide proper credit is a violation of the MIT License, and we reserve the right to take appropriate action, including issuing a **DMCA Takedown** request if necessary. We appreciate your understanding and respect for the original work.
 
 ---
 
